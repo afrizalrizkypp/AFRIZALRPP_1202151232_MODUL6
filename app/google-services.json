@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "944599553931",
+    "firebase_url": "https://afrizalrppmodul6.firebaseio.com",
+    "project_id": "afrizalrppmodul6",
+    "storage_bucket": "afrizalrppmodul6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:944599553931:android:d3445ae9be31a306",
+        "android_client_info": {
+          "package_name": "com.example.android.AFRIZALRIZKYPP_1202151232_MODUL6"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "944599553931-1547vb5cjdg3en3mpen9vko45m42fqgk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.android.AFRIZALRIZKYPP_1202151232_MODUL6",
+            "certificate_hash": "cb66f958daf25e507ea8bc55fbb761db26ad3601"
+          }
+        },
+        {
+          "client_id": "944599553931-25f0e5nc2jurglqcee9b88v51kahuv6i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCwdsMin0cwxEycNv5opR9W5Y2eINnnFKA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "944599553931-25f0e5nc2jurglqcee9b88v51kahuv6i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
